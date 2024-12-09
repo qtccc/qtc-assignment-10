@@ -1,0 +1,5 @@
+Flask==2.3.3
+torch
+torchvision
+open-clip-torch==2.0.1
+pandas==2.1.1
